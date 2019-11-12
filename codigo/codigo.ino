@@ -108,7 +108,7 @@ void loop() {
  
   
 }
-
+  //comentário aleatório de teste do app pra Android
   void restartGame()
   {
     ledAceso = 0;
